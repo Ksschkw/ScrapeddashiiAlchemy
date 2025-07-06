@@ -52,7 +52,7 @@ While exploring [ada.com](https://ada.com), I wanted structured data on medical 
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/YourUserName/ScrapeddashiiAlchemy.git
+   git clone https://github.com/Ksschkw/ScrapeddashiiAlchemy.git
    cd ScrapeddashiiAlchemy
     ````
 
